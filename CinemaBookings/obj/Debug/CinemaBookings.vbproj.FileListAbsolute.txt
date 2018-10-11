@@ -1,2 +1,3 @@
 C:\Users\Kobus\AppData\Local\Temporary Projects\CinemaBookings\bin\Debug\CinemaBookings.exe.config
 C:\Users\Kobus\Documents\GitHub\CinemaBookings\CinemaBookings\bin\Debug\CinemaBookings.exe.config
+C:\Users\Lambie\Documents\GitHub\CinemaBookings\CinemaBookings\bin\Debug\CinemaBookings.exe.config
